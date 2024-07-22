@@ -4,4 +4,4 @@ version = "0.0.1"
 schema_version = 1
 authors = ["Foxoman <sultan@foxoman.net>"]
 description = "Nebula Pulse Theme for Zed"
-#repository = "https://github.com/kcamcam/vscode_dark_modern.zed"
+repository = "https://github.com/foxoman/nebula-pulse-zed-theme"
