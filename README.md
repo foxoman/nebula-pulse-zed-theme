@@ -15,7 +15,12 @@ Nebula Pulse is a vibrant, dark theme for the Zed editor, designed to provide an
 - **Terminal-Friendly**: A coordinated color scheme for the integrated terminal that complements the overall theme.
 
 ## Screenshot
+### Dark Theme - Nebula Pulse
 ![image](https://github.com/user-attachments/assets/cbbfde38-d177-47b9-b145-efa8042e1e38)
+
+### Light Theme - Nebula Glow
+![image](https://github.com/user-attachments/assets/38071764-11f2-4b68-8c39-00d92aa981c0)
+
 
 
 ## Installation
@@ -24,7 +29,7 @@ To install the Nebula Pulse theme in Zed:
 
 Look for the Nebula Pulse theme in the extension store and click Install.
 
-Go to Settings > Themes and select "Nebula Pulse" from the list.
+Go to Settings > Themes and select "Nebula Pulse" from the list for Dark Theme or "Nebula Glow" for Light theme
 
 ## Color Palette
 
