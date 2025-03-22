@@ -9,71 +9,63 @@
       "style": {
         "background.appearance": "opaque",
 
-        /* Border colors - now more distinct */
         "border": "#333340",
         "border.variant": "#33334099",
-        "border.focused": "#3F3F55" /* Changed from #1D1D25 */,
-        "border.selected": "#474760" /* Changed from #1D1D25 */,
+        "border.focused": "#3F3F55",
+        "border.selected": "#474760",
         "border.transparent": "#333340",
-        "border.disabled": "#28282F" /* Changed from #333340 */,
+        "border.disabled": "#28282F",
 
-        /* Background colors - improved contrast */
+       
         "elevated_surface.background": "#1D1D25",
-        "surface.background": "#191920" /* Changed from #1D1D25 */,
+        "surface.background": "#191920",
         "background": "#0F0F18",
 
-        /* Element colors - better differentiation */
+        
         "element.background": "#242433",
         "element.hover": "#30304A",
-        "element.active": "#2A2A42" /* Changed from #1D1D25 */,
+        "element.active": "#2A2A42",
         "element.selected": "#2A2A38",
-        "element.disabled": "#1E1E2A" /* Changed from #242433 */,
+        "element.disabled": "#1E1E2A",
         "drop_target.background": "#30304A",
 
-        /* Ghost element colors - better distinction */
-        "ghost_element.background": "#181820" /* Changed from #1D1D25 */,
+        "ghost_element.background": "#181820",
         "ghost_element.hover": "#30304A",
         "ghost_element.active": "#222230",
         "ghost_element.selected": "#2A2A38",
-        "ghost_element.disabled": "#151518" /* Changed from #222230 */,
+        "ghost_element.disabled": "#151518",
 
-        /* Text colors - unchanged (already well differentiated) */
         "text": "#E6E6EE",
         "text.muted": "#B8B8C8",
         "text.placeholder": "#8A8A9A",
         "text.disabled": "#6A6A7A",
         "text.accent": "#A2CFFF",
 
-        /* Icon colors - unchanged (already well differentiated) */
         "icon": "#8A8A9A",
         "icon.muted": "#6A6A7A",
         "icon.disabled": "#4A4A5A",
         "icon.placeholder": "#6A6A7A",
         "icon.accent": "#A2CFFF",
 
-        /* UI element backgrounds - better harmony and distinction */
         "status_bar.background": "#0A0A12",
         "title_bar.background": "#0A0A12",
         "toolbar.background": "#0A0A12",
         "tab_bar.background": "#0A0A12",
         "tab.inactive_background": "#0F0F18",
-        "tab.active_background": "#181822" /* Changed from #0F0F18 */,
+        "tab.active_background": "#181822",
 
-        /* Search and panel - maintained but slight adjustments */
         "search.match_background": "#C8E1FF33",
         "panel.background": "#1D1D25",
-        "panel.focused_border": "#3F3F55" /* Changed from #1D1D25 */,
-        "pane.focused_border": "#3F3F55" /* Changed from #1D1D25 */,
+        "panel.focused_border": "#3F3F55",
+        "pane.focused_border": "#3F3F55",
         "pane_group.border": "#333340",
 
-        /* Scrollbars - enhanced distinction */
         "scrollbar.thumb.background": "#3A3A4A66",
         "scrollbar.thumb.hover_background": "#4A4A5AB3",
         "scrollbar.thumb.border": "#1D1D25",
         "scrollbar.track.background": "#1D1D25",
         "scrollbar.track.border": "#1D1D25",
 
-        /* Editor settings - slightly adjusted for better distinction */
         "editor.foreground": "#E6E6EE",
         "editor.background": "#0F0F18",
         "editor.gutter.background": "#0C0C15",
@@ -88,7 +80,6 @@
         "editor.document_highlight.read_background": "#C8E1FF22",
         "editor.document_highlight.write_background": "#C8E1FF22",
 
-        /* Terminal colors - preserved for good readability */
         "terminal.background": "#0F0F18",
         "terminal.foreground": "#E6E6EE",
         "terminal.bright_foreground": "#FFFFFF",
@@ -118,10 +109,8 @@
         "terminal.ansi.bright_white": "#FFFFFF",
         "terminal.ansi.dim_white": "#8A8A9A",
 
-        /* Link hover - preserved */
         "link_text.hover": "#82BCFF",
 
-        /* Status indicators - preserved for clarity */
         "conflict": "#F05A74",
         "conflict.background": "#F05A7433",
         "conflict.border": "#F05A74",
@@ -165,7 +154,6 @@
         "warning.background": "#E6E7A333",
         "warning.border": "#E6E7A3",
 
-        /* List states - preserved for clarity */
         "list.activeSelectionBackground": "#2A2A38",
         "list.activeSelectionForeground": "#E6E6EE",
         "list.inactiveSelectionBackground": "#222230",
@@ -173,7 +161,6 @@
         "list.hoverBackground": "#30304A",
         "list.hoverForeground": "#FFFFFF",
 
-        /* Players - preserved for clarity */
         "players": [
           {
             "cursor": "#65ADFFFF",
@@ -217,7 +204,6 @@
           }
         ],
 
-        /* Syntax highlighting - refined for better code readability */
         "syntax": {
           "attribute": {
             "color": "#C8E1FF",
@@ -235,7 +221,7 @@
             "font_weight": null
           },
           "comment.doc": {
-            "color": "#7A7A8A" /* Changed from #6A6A7A for better distinction */,
+            "color": "#7A7A8A",
             "font_style": "italic",
             "font_weight": null
           },
@@ -305,7 +291,7 @@
             "font_weight": null
           },
           "operator": {
-            "color": "#B0B0C2" /* Changed from #A0A0B2 for better distinction */,
+            "color": "#B0B0C2",
             "font_style": null,
             "font_weight": null
           },
@@ -315,7 +301,7 @@
             "font_weight": null
           },
           "preproc": {
-            "color": "#9090A2" /* Changed from #A0A0B2 for better distinction */,
+            "color": "#9090A2",
             "font_style": null,
             "font_weight": null
           },
@@ -335,7 +321,7 @@
             "font_weight": null
           },
           "punctuation.bracket": {
-            "color": "#7A879A" /* Changed from #6A7789 for better distinction */,
+            "color": "#7A879A",
             "font_style": null,
             "font_weight": null
           },
@@ -345,7 +331,7 @@
             "font_weight": null
           },
           "punctuation.list_marker": {
-            "color": "#7A879A" /* Changed from #6A7789 for better distinction */,
+            "color": "#7A879A",
             "font_style": null,
             "font_weight": null
           },
@@ -355,7 +341,7 @@
             "font_weight": null
           },
           "string": {
-            "color": "#4EBE96" /* Changed from #FCB795 for better distinction from boolean */,
+            "color": "#4EBE96",
             "font_style": null,
             "font_weight": null
           },
@@ -370,7 +356,7 @@
             "font_weight": null
           },
           "string.special": {
-            "color": "#4EBE96" /* Changed to match string */,
+            "color": "#4EBE96",
             "font_style": null,
             "font_weight": null
           },
@@ -420,7 +406,7 @@
             "font_weight": null
           },
           "variable.parameter": {
-            "color": "#B2DFFF" /* Changed from #a2cfff for better distinction */,
+            "color": "#B2DFFF",
             "font_style": null,
             "font_weight": null
           },
