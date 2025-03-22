@@ -16,12 +16,10 @@
         "border.transparent": "#333340",
         "border.disabled": "#28282F",
 
-       
         "elevated_surface.background": "#1D1D25",
         "surface.background": "#191920",
         "background": "#0F0F18",
 
-        
         "element.background": "#242433",
         "element.hover": "#30304A",
         "element.active": "#2A2A42",
@@ -248,7 +246,7 @@
           "emphasis.strong": {
             "color": "#E6E6EE",
             "font_style": null,
-            "font_weight": "bold"
+            "font_weight": 700
           },
           "enum": {
             "color": "#C8E1FF",
@@ -267,7 +265,7 @@
           },
           "keyword": {
             "color": "#A0A0B2",
-            "font_style": null,
+            "font_style": "bold",
             "font_weight": null
           },
           "label": {
