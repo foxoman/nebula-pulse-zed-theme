@@ -2,7 +2,7 @@
 
 ## Overview
 
-Nebula Pulse is a vibrant, dark theme for the Zed editor, designed to provide an immersive coding experience with its cosmic-inspired color palette. This theme combines deep space blues with pulsating accent colors, creating a visually striking yet comfortable environment for long coding sessions.
+Nebula Themes are a set of cosmic-inspired themes for the Zed editor, crafted to deliver an immersive and visually engaging coding experience. Drawing inspiration from popular themes in Vim and VS Code, Nebula blends deep space tones with vibrant accent colors for both aesthetics and readability. Originally developed with Nim language support in mind, these themes are ideal for long, focused coding sessions.
 
 ## Screenshot
 ### Nebula Pulse
@@ -31,7 +31,7 @@ To install the Nebula Pulse theme in Zed:
 
 Look for the Nebula Pulse theme in the extension store and click Install.
 
-Go to Settings > Themes and select "Nebula Pulse" from the list for Dark Theme or "Nebula Glow" for Light theme
+Go to Settings > Themes and select any og Nebual Light or Dark Themes
 
 
 ## License
