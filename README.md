@@ -12,7 +12,7 @@ Nebula Themes are a set of cosmic-inspired themes for the Zed editor, crafted to
 ![image](https://github.com/user-attachments/assets/38071764-11f2-4b68-8c39-00d92aa981c0)
 
 ### Nebula Serenity
-![image](https://github.com/user-attachments/assets/b2e274c0-04a5-4b12-9ef4-2b0bf037d411)
+![image](https://github.com/user-attachments/assets/6fb99ee4-dcb9-43ff-a95f-0409a013d12c)
 
 ### Nebula Nova
 ![image](https://github.com/user-attachments/assets/b20ef96d-9421-4816-9506-757af6681191)
