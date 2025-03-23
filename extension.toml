@@ -1,7 +1,7 @@
 id = "nebula-pulse"
 name = "Nebula Pulse"
-version = "0.0.4"
+version = "0.0.5"
 schema_version = 1
 authors = ["Foxoman <sultan@foxoman.net>"]
-description = "Nebula Pulse Theme for Zed"
+description = "Nebula Themes for Zed"
 repository = "https://github.com/foxoman/nebula-pulse-zed-theme"
